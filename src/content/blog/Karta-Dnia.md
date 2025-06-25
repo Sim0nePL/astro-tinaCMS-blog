@@ -2,7 +2,7 @@
 title: Karta Dnia
 description: Zapraszamy
 pubDate: 2025-06-24T22:00:00.000Z
-heroImage: /uploads/bistro-u-dziewczyn.jpg
+heroImage: /public/uploads/bistro-u-dziewczyn.jpg
 ---
 
 Witamy,
