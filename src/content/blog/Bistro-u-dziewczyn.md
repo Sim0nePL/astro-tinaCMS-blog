@@ -18,3 +18,5 @@ bistroudziewczyn
 bold text
 
 Code block
+
+![](/public/uploads/bistro-u-dziewczyn.jpg)
